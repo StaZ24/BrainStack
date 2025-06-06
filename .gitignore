@@ -1,0 +1,5 @@
+visu/*
+models/__pycache__/
+data/__pycache__/
+wandb/
+__pycache__/
